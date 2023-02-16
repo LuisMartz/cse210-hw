@@ -5,8 +5,8 @@ public class Assignment
     
     public Assignment(string student, string topic)
     {
-        this.student = student;
-        this.topic = topic;
+        student = _student;
+        topic = _topic;
     }
     
     public string GetStudent()
@@ -21,6 +21,6 @@ public class Assignment
     
     public string Summary
     {
-        get { return student + ", complete the assignment on " + topic; }
+        get { return _student + ", complete the assignment on " + _topic; }
     }
 }
