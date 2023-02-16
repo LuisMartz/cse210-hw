@@ -5,12 +5,12 @@ public class WritingAssignment : Assignment
     public WritingAssignment(string student, string topic, string writing)
         : base(student, topic)
     {
-        this.writing = writing;
+        writing = _writing;
     }
 
     public string GetWriting()
     {
         string student = GetStudent();
-        return writing + " by " + student;
+        return _writing + " by " + student;
     }
 }
