@@ -10,7 +10,6 @@ public class WritingAssignment : Assignment
 
     public string GetWriting()
     {
-        string student = GetStudent();
-        return _writing + " by " + student;
+       get { return _writing + " by " + student;
     }
 }
