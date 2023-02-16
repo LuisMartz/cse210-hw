@@ -6,12 +6,12 @@ public class MathAssigment : Assignment
     public MathAssigment(string student, string topic, string bookSection, string problems)
         : base(student, topic)
     {
-        this.bookSection = bookSection;
-        this.problems = problems;
+        bookSection = _bookSection;
+        problems = _problems;
     }
 
     public string Homework
     {
-        get { return "Section " + bookSection + ", Problems " + problems; }
+        get { return "Section " + _bookSection + ", Problems " + _problems; }
     }
 }
