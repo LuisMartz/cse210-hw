@@ -1,0 +1,15 @@
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.AssemblyInfo.cs
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\bin\Debug\net7.0\w08 de 0.exe
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\bin\Debug\net7.0\w08 de 0.deps.json
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\bin\Debug\net7.0\w08 de 0.runtimeconfig.json
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\bin\Debug\net7.0\w08 de 0.dll
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\bin\Debug\net7.0\w08 de 0.pdb
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.dll
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\refint\w08 de 0.dll
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.pdb
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\w08 de 0.genruntimeconfig.cache
+C:\Users\jacks\Documents\BYU-I\Winter Semester 2023\CSE 210\w08 de 0\obj\Debug\net7.0\ref\w08 de 0.dll
